@@ -1,5 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+learning resource:
+https://github.com/sunil-sandhu/react-todo-2019-with-jest
+
+https://medium.com/javascript-in-plain-english/i-tested-a-react-app-with-jest-testing-library-and-cypress-here-are-the-differences-3192eae03850
+
 ## Available Scripts
 
 In the project directory, you can run:
