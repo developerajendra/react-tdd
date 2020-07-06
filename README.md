@@ -1,9 +1,13 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-learning resource:
+learning resource for TDD:
 https://github.com/sunil-sandhu/react-todo-2019-with-jest
 
 https://medium.com/javascript-in-plain-english/i-tested-a-react-app-with-jest-testing-library-and-cypress-here-are-the-differences-3192eae03850
+
+Learning hoocks: 
+https://www.youtube.com/watch?v=l-s9MgoMwTI&list=PLC3y8-rFHvwisvxhZ135pogtX7_Oe3Q3A&index=30
+
 
 ## Available Scripts
 
