@@ -6,6 +6,7 @@ import ComponentA from './context/ComponentA';
 
 import Number from './peformance/memoAndUseCallback/Parent';
 import Ref from './useRef/Ref';
+import UserForm from './customHoocks/UserForm';
 
 export const UserContext = React.createContext();
 export const ChannelContext = React.createContext();
@@ -13,6 +14,7 @@ export const ChannelContext = React.createContext();
 function App() {
   return (
     <div className="App">
+      <UserForm />
       <Ref/>
       <Number/>
       <UserContext.Provider value={'Rajendra'}>
